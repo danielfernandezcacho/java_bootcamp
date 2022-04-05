@@ -6,6 +6,6 @@ public class tarea4 {
 		System.out.println("Cucu");*/
 		for(int i=0;i<6;/*contador*/i++)
 			System.out.print(i+" ");
-		System.out.println("Fin de el programa");
+		System.out.println("Fin de el program");
 	}
 }
